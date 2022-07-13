@@ -1,0 +1,11 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+ls = abrir
+mkdir = criar
+cd = change directory
+cd .. = voltar
+ls -a = Visualizar documentos ocultos
+git clone = copiar commit
+git add * = adicionar ao repositório
+git commit -m "" = comitar
+git push origin main = enviar para a nuvem
